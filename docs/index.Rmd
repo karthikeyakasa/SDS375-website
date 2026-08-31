@@ -1,0 +1,28 @@
+---
+title: "Karthikeya Kasa"
+image: "myphoto.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/karthikeyakasa"
+output:
+  postcards::jolla
+---
+ 
+I am a junior studying Statistics & Data Science and Finance. I like using data to uncover insights and applying it to financial markets. I enjoy working on projects that help me learn new skills and apply them as well. I love talking about basketball, football, and Formula 1. 
+
+# Shows I am watching right now
+
+Ted Lasso
+
+Death Note
+
+White Collar
+
+# Website Build Time
+
+```{r}
+Sys.time()
+```
+
+
+
