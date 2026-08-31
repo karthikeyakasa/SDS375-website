@@ -10,13 +10,14 @@ output:
  
 I am a junior studying Statistics & Data Science and Finance. I like using data to uncover insights and applying it to financial markets. I enjoy working on projects that help me learn new skills and apply them as well. I love talking about basketball, football, and Formula 1. 
 
-# Shows I am watching right now
 
-* Ted Lasso
+<h2> Shows I am watching right now </h2>
 
-* Death Note
-
-* White Collar
+<ul>
+  <li>Ted Lasso</li>
+  <li>Death Note</li>
+  <li>White Collar</li>
+</ul>
 
 # Website Build Time
 
