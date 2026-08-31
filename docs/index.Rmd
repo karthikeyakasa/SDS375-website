@@ -11,17 +11,15 @@ output:
 I am a junior studying Statistics & Data Science and Finance. I like using data to uncover insights and applying it to financial markets. I enjoy working on projects that help me learn new skills and apply them as well. I love talking about basketball, football, and Formula 1. 
 
 
-<h2> Shows I am watching right now </h2>
+# Shows I am watching right now
 
-<ul>
-  <li>Ted Lasso</li>
-  <li>Death Note</li>
-  <li>White Collar</li>
-</ul>
+* Ted Lasso
+* Death Note
+* White Collar
 
 # Website Build Time
 
-```{r}
+```{r, echo = FALSE}
 Sys.time()
 ```
 
